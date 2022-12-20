@@ -1,6 +1,6 @@
 # guide
 #For science use
-#This is a step by step instruction for manuscrpit "A bibliometric analysis of 16,826 triple-negative breast cancer (TNBC) publications using multiple machine learning algorithms: Progress in the past 17 years"
+#This is a step-by-step instruction for the manuscript "A bibliometric analysis of 16,826 triple-negative breast cancer (TNBC) publications using multiple machine learning algorithms: Progress in the past 17 years"
 
 Supplemental information 1 Step by step instruction
 
